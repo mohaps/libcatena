@@ -6,17 +6,17 @@ This is a simple toy blockchain implementation in C++ for learning purposes. I u
 * https://github.com/tko22/simple-blockchain
 
 
-##Author
+## Author
 Saurav Mohapatra (@mohaps)
 
-##Requirements
+## Requirements
 C++1y
 Mac OS/Linux (Should compile in windows, haven't tried)
 
 ## License
 APACHE 2.0 - http://www.apache.org/licenses/LICENSE-2.0
 
-##How to build
+## How to build
 
 ```
 $ make all
