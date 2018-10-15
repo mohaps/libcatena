@@ -7,7 +7,7 @@ This is a simple toy blockchain implementation in C++ for learning purposes. I u
 
 
 ##Author
-Saurav Mohapatra (mohaps AT gmail DOT com) (github: @mohaps)
+Saurav Mohapatra (@mohaps)
 
 ##Requirements
 C++1y
@@ -57,6 +57,6 @@ If you find bugs and/or have enhancements fire in a pull request and I'll update
 
 
 
-##Third-party/External Libraries (included in source)
+## Third-party/External Libraries (included in source)
 
 Zedwood.com SHA256 C++ library in third-party/

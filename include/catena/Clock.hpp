@@ -75,7 +75,7 @@ public:
   ~Scope() {
     std::ostringstream os;
     std::string indentPrefix(indent_ * 2 + 1, ' ');
-    os << " << FINISHED: " << parentName_ << "::"<< name_ << "( in " << clock_.elapsedSeconds()<<" s )" << std::endl;
+    os << " << FINISHED: " << parentName_ << "::"<< name_ << " (in " << clock_.elapsedSeconds()<<" s)" << std::endl;
     std::cout << os.str(); 
   }
 protected:
