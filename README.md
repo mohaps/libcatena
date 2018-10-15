@@ -5,6 +5,9 @@ This is a simple toy blockchain implementation in C++ for learning purposes. I u
 * https://davenash.com/2017/10/build-a-blockchain-with-c/
 * https://github.com/tko22/simple-blockchain
 
+This is (quite literally) a weekend hack. Have done basic unit testing (shamefully included in the main.cpp itself :P).
+
+The goal was to understand what blockchain technology is and how the basics work.
 
 ## Author
 Saurav Mohapatra (@mohaps)
